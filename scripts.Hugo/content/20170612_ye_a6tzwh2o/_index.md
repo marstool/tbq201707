@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170612_ye_a6tzwh2o.mp4" >}}
 
-     https://www.youtube.com/watch?v=Ye a6TZWh2o 
-     唐柏桥夏日之行6月12日直播视频：谈推特党及民运组织应如何发展 
      
+     唐柏桥夏日之行6月12日直播视频：谈推特党及民运组织应如何发展 
+     https://www.youtube.com/watch?v=Ye a6TZWh2o 
