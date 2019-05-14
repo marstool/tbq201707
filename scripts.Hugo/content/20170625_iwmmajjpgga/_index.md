@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170625_iwmmajjpgga.mp4" >}}
 
-     https://www.youtube.com/watch?v=IwmmajJPGGA 
-     唐柏桥夏日之行6月25日直播视频：谈如何重振海外民运 
      
+     唐柏桥夏日之行6月25日直播视频：谈如何重振海外民运 
+     https://www.youtube.com/watch?v=IwmmajJPGGA 

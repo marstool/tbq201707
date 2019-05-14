@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20170619_hnbebyypiik.mp4" >}}
 
      https://www.youtube.com/watch?v=hnbebyYPiIk 
-     唐柏桥夏日之行6月19日直播视频：评郭文贵今日直播视频 反击抹黑 
      
+     唐柏桥夏日之行6月19日直播视频：评郭文贵今日直播视频 反击抹黑 
